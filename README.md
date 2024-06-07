@@ -1,7 +1,7 @@
 # Restaurant Data Analysis and Classification
 
 ## Overview
-This project involves comprehensive analysis and classification of restaurants using a dataset containing various attributes of restaurants, such as location, cuisine, ratings, and more. The project includes multiple tasks, completed as part of an internship at **Cognifyz Technologies** as a** Machine Learning intern**.
+This project involves comprehensive analysis and classification of restaurants using a dataset containing various attributes of restaurants, such as location, cuisine, ratings, and more. The project includes multiple tasks, completed as part of an internship at *Cognifyz Technologies* as a *Machine Learning intern*.
 
 ## Tasks
 
